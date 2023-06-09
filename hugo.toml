@@ -1,29 +1,15 @@
 baseURL = "https://hello.branchwebpresence.com"
 languageCode = "en-us"
-title = "Local web presence: a presentation."
+title = "Web Presence for Local Businesses"
 disableKinds = ["sitemap", "RSS"]
-theme = "hugo-webslides"
+theme = "reveal"
 themesDir = "themes"
 tags = ["slide", "presentation", "responsive", "landing page"]
 features = ["webslides.js", "pre-made template", "shortcodes"]
 
 [params]
-  author = "RCJacH"
-  homepage = "RCJacH.github.io"
-
-
-[params.webslides]
-  banner = false
-  slideshow = true
-  vertical = false
-  autoslide = false
-  changeOnClick = false
-  disableLoop = false
-  minWheelDelta = 40
-  disableNavigateOnScroll = false
-  scrollWait = 450
-  slideOffset = 50
-  hideIndex = false
+  author = "Justin Langhorst"
+  homepage = "https://www.branchwebpresence.com"
 
 [markup]
   [markup.goldmark]
@@ -32,3 +18,17 @@ features = ["webslides.js", "pre-made template", "shortcodes"]
         block = true
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    codeFences = false # use highlight.js, true uses highlighting at compile time
+    style = "tango"
+
+[outputFormats.Reveal]
+  baseName = "index"
+  mediaType = "text/html"
+  isHTML = true
+
+[params.reveal_hugo]
+  history = true
+  [params.reveal_hugo.templates.grey]
+    background = "#424242"
+    transition = "convex"
