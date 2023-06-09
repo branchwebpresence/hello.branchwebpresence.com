@@ -482,10 +482,16 @@ Get listed.
 ---
 
 ## Questions?
-Please, ask me.
+Please, ask away.
 
 {{% note %}}
 - Other topics?
 - Content generation
 - Automation to save on administration
 {{% /note %}}
+
+---
+
+## Get in Touch
+justin@branchwebpresence.com<br>
+<a href="tel:972.768.0695">972.768.0695</a>
