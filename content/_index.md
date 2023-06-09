@@ -417,25 +417,26 @@ Similar to Google Business Profile.
 
 ---
 
-## Social Listings
-Claim your profile.
-
-{{% note %}}
-- Whether you plan to be active on social listings or not, claim your business on all of the popular social sites such as Twitter, LinkedIn, and Instagram
-- If you don't plan on using them, make sure to pin a tweet or post inviting users to call/visit your website/follow you on whatever social platform you are most active on
-- Many social profiles allow you to provide a link back to your website -- use it
-  - it won't help local rankings, really, but it will help more people potentially discover what you have to offer
-- It can be important to respond quickly, so don't overdo this, and focus on what makes sense for your business
-{{% /note %}}
-
----
-
 ## Facebook Business
+Yes, another business profile.
 
 {{% note %}}
 - Many people are comfortable with FB and use it as a search engine
 - Make sure you at least create a business page and update it with your website, hours, and a description
 - Social signals may have limited impact, but they do have an impact on social SEO
+{{% /note %}}
+
+---
+
+## Social Networks
+Claim your profiles.
+
+{{% note %}}
+- Whether you plan to be active on social networks or not, claim your business on all of the popular social sites such as Twitter, LinkedIn, and Instagram
+- If you don't plan on using them, make sure to pin a tweet or post inviting users to call/visit your website/follow you on whatever social platform you are most active on
+- Many social profiles allow you to provide a link back to your website -- use it
+  - it won't help local rankings, really, but it will help more people potentially discover what you have to offer
+- It can be important to respond quickly, so don't overdo this, and focus on what makes sense for your business
 {{% /note %}}
 
 ---
