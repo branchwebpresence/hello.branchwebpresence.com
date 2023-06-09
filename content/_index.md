@@ -359,7 +359,7 @@ Lead back to the hub.
 ---
 
 ## Google Business Profile
-The most important.
+The most important spoke.
 
 {{% note %}}
 - If you don't already have your Google Business Profile claimed and completely filled out, that's what I'd recommend doing immediately
