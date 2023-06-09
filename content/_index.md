@@ -19,6 +19,13 @@ background = "#FF4081"
 ### for Local Businesses
 Branch Web Presence, LLC
 
+{{% note %}}
+- Hi Everyone!
+- Thanks to the host.
+- This talk is about setting up a solid foundation for your businesses’ presence on the web
+- With the goal of attracting more ideal clients + customers to your business
+{{% /note %}}
+
 ---
 
 ## About Me
@@ -118,11 +125,11 @@ What kind of coaching services? This could mean a lot of different things, right
 ---
 
 ## The Hub
-A website hosted at your domain.<br><br>
-goodecoaching.com
+Your website hosted at your domain.
 
 {{% note %}}
 - The hub of your presence on the web is your domain name
+- ex: goodecoaching.com
 - Think of this as land
 - Once you own it, you can build whatever you want on it
 - So we want to turn this into something that works for our business
@@ -475,3 +482,9 @@ Get listed.
 
 ## Questions?
 Please, ask me.
+
+{{% note %}}
+- Other topics?
+- Content generation
+- Automation to save on administration
+{{% /note %}}
